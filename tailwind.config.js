@@ -12,7 +12,8 @@ export default {
         "primary-blue": "#283959;",
         "blue-light": "#939CAC;",
         "white-100": "#f3f3f3",
-        "red-600": "#dc2626"
+        "red-600": "#dc2626",
+        "blue-gray":"#f9fafc"
       },
       container: {
         center: true,
